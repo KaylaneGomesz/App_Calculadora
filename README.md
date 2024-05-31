@@ -1,6 +1,6 @@
 # Calculadora Simples
 
-![](CALCULADORA_FOTO.PNG)
+![](CALCULADORA_FOTO.png)
 
 ## Descrição
 Esta é uma calculadora simples desenvolvida em JavaScript que realiza operações matemáticas básicas, como adição, subtração, multiplicação e divisão.
